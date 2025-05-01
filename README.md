@@ -60,7 +60,7 @@ cd lumen-bot
 pip install -r requirements.txt      # Python 3.11+ recommended
 cp example.env .env                  # then edit .env with your secrets
 python main.py
-
+```
 ## 5 – Configuration Checklist
 - [ ] **Environment:**  
       Create a `.env` file (or set host-level secrets) with:  
