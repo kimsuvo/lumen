@@ -97,12 +97,7 @@ Lumen’s codebase is organized into loosely coupled modules. Key packages inclu
    # Edit .env: BOT_TOKEN, TOPGG_TOKEN, BOT_ID, BOT_INFO_PASSWORD, DELETION_PASSWORD
    ```
 
-3. **Initial Database**
-   ```bash
-   python tools/db_upgrade.py
-   ```
-
-4. **Run**
+3. **Run**
    ```bash
    python main.py
    ```
