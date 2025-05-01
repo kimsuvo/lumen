@@ -1,0 +1,11 @@
+PyPDF2
+aiohttp
+bcrypt
+python-dateutil
+discord.py
+fpdf
+nltk
+pandas
+psutil
+pytz
+requests
