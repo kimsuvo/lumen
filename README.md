@@ -38,7 +38,7 @@ Whether you’re running a small community or a large server network, Lumen give
 | **Feedback Suite**         | • `/feedback` slash command
                               • Interactive web‑style panels
                               • Duplicate and copy‑pasta detection
-                              |
+                              
 | **Scam & Spam Filters**    | • Invite‑link blacklist
                               • Role & user blacklist
                               • Regex‑based keyword filters
