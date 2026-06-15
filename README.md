@@ -153,5 +153,5 @@ Lumen is released under the [MIT License](./LICENSE). You are free to use, modif
 
 **Kim Suvo**
 
-- GitHub: [kimsuvo](https://github.com/kimsuvo)
+- GitHub: [Gaurav](https://github.com/gauravxsuvo)
 
